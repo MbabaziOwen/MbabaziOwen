@@ -15,6 +15,9 @@ i am currently learning computer vision and web design and love to collaborate
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MbabaziOwen&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 🏆 GitHub Rank in Uganda
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
